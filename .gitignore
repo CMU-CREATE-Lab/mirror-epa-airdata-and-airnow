@@ -1,5 +1,9 @@
 .ipynb_checkpoints
 AirNow
 EPA-AirData
-Mirror-Airnow.ipynb.lock
-Mirror-Airnow.ipynb.log
+*.lock
+*.log
+
+*~
+upload-airnow-to-esdr
+esdr-auth-airnow-uploader.json
