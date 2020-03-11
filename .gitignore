@@ -7,6 +7,7 @@ EPA-AirData
 *~
 upload-airnow-to-esdr
 esdr-auth-airnow-uploader.json
+google-api-keys.json
 
 *.ipynb.sage-jupyter2
 legacy
