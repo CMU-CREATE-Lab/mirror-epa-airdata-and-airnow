@@ -8,6 +8,8 @@ EPA-AirData
 upload-airnow-to-esdr
 esdr-auth-airnow-uploader.json
 google-api-keys.json
+highest-5-notifications-config.json
+mailgun-config.json
 
 *.ipynb.sage-jupyter2
 legacy
