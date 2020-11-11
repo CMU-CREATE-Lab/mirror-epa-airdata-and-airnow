@@ -10,6 +10,7 @@ esdr-auth-airnow-uploader.json
 google-api-keys.json
 highest-5-notifications-config.json
 mailgun-config.json
+sendgrid-config.json
 
 *.ipynb.sage-jupyter2
 legacy
