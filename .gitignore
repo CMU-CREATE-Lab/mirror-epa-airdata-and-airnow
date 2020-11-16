@@ -11,6 +11,7 @@ google-api-keys.json
 highest-5-notifications-config.json
 mailgun-config.json
 sendgrid-config.json
+smtp-config.json
 
 *.ipynb.sage-jupyter2
 legacy
